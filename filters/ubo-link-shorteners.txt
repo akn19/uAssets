@@ -856,4 +856,4 @@ adtival.network##div.box:has(.purple)
 cloud.majalahhewan.com##+js(no-fetch-if, ads)
 cloud.majalahhewan.com##.text-primary.inline-block, button.text-primary:others()
 cloud.majalahhewan.com##+js(aeld, blur, counter)
-cloud.majalahhewan.com##+js(nano-sib, /counter|wait/, *, 0.02
+cloud.majalahhewan.com##+js(nano-sib, /counter|wait/, *, 0.02)
